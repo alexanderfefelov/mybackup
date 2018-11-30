@@ -26,5 +26,6 @@ def main():
         sys.stderr.write(message)
         logging.error(message)
 
+
 if __name__ == '__main__':
     main()
